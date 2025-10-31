@@ -1,6 +1,6 @@
 This is a "Facebook Messenger Clone". 
 
-I created this since The Messenger app is going extinxt in December.
+I created this since The Messenger app is going extinct in December.
 
 
 It's basically just an app that opens a web page (messenger.com).
@@ -11,6 +11,9 @@ This is just a prefrence for me, but I made that the app automatically opens max
 
 
 To install, just look for the releases tab(probably on the left) ant download the executable file. (It should work perfectly)
+
+I haven't tested everything properly, so If I'll find anything I could improve, I'll probably make another releas.
+
 
 
   AS A REMINDER: THIS WAS ALL CODED WITH CHATGPT!!!!
