@@ -1,4 +1,4 @@
-This is a "Facebook Messenger Clone". 
+This is a "Clone" for the Facebook Messenger app. 
 
 I created this since The Messenger app is going extinct in December.
 (BTW this is better than the original messenger app, because it oppened all links in Microsoft Edge. But this opens everything in your default browser)
