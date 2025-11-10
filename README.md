@@ -18,3 +18,6 @@ I haven't tested everything properly, so If I'll find anything I could improve, 
 
 
   AS A REMINDER: THIS WAS ALL CODED WITH CHATGPT!!!!
+
+
+Just found out that his app doesn't support calls :)
